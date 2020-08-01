@@ -1,6 +1,6 @@
 current_time = Time.now.to_i
 if current_time.even? = true 
-  put Even!
+  puts Even!
 else
-  put Odd!
+  puts Odd!
 end
